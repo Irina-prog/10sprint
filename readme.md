@@ -1,5 +1,5 @@
 ## Проект по темам Git и «командная строка»
 
-version: 0.0.7
+version: 0.0.8
 
-[github pages](https://github.com/Irina-prog/10sprint.git)
+[Github Pages](https://irina-prog.github.io/10sprint/)
